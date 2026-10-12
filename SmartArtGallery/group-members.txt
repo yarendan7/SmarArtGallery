@@ -1,0 +1,12 @@
+Course: AII005 Internet Programming
+Project: Smart Art Gallery
+
+Student Name: Yaren DAN
+Student No: 20221172
+Department: Software Engineering
+ 
+
+
+Student Name: Duygu KARACAN
+Student No: 20221007
+Department: Software Engineering
